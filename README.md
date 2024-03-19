@@ -15,6 +15,12 @@ Train code: <train.py>
 ## Test
 Train code: <test.py>
 
+## Test Dataset
+Please refer to [PSCC-Net](https://github.com/proteus1991/PSCC-Net) for the test dataset.
+
+## Train Dataset
+[TIP 2019](https://github.com/jawadbappy/forgery_localization_HLED)
+
 
 ![columbia](https://github.com/ningnbai/PIM-Net/assets/106603827/43fe7b3a-311c-4a8e-a4d2-88c63e0dabec)
 ![casia](https://github.com/ningnbai/PIM-Net/assets/106603827/bb8be896-ada2-4281-a7be-f9bd0154e6ca)
