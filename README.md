@@ -1,8 +1,9 @@
 # PIM-Net
 
-**Progressive Inconsistency Mining Network for Image Manipulation Detection**
+**Progressive Inconsistency Mining Network for Image Manipulation Detection** Under review
 
-Under review, source code will be released upon acceptance of the paper.
+# Environment
+
 
 ![columbia](https://github.com/ningnbai/PIM-Net/assets/106603827/43fe7b3a-311c-4a8e-a4d2-88c63e0dabec)
 ![casia](https://github.com/ningnbai/PIM-Net/assets/106603827/bb8be896-ada2-4281-a7be-f9bd0154e6ca)
