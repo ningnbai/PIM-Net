@@ -15,6 +15,9 @@ Train code: <train.py>
 ## Test
 Train code: <test.py>
 
+## Metrics
+Five evaluation metrics (F1, AUC, IoU, MCC, FPR) are calculated by running <metric5.py>.
+
 ## Test Dataset
 Please refer to [PSCC-Net](https://github.com/proteus1991/PSCC-Net) for the test dataset.
 
