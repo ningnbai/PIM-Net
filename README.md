@@ -10,10 +10,10 @@
 * CUDA 11.3 + cudnn 8.2.0
 
 ## Train
-Train code: 'train.py'
+Train code: <train.py>
 
 ## Test
-Train code: 'test.py'
+Train code: <test.py>
 
 
 ![columbia](https://github.com/ningnbai/PIM-Net/assets/106603827/43fe7b3a-311c-4a8e-a4d2-88c63e0dabec)
