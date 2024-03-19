@@ -19,7 +19,7 @@ Train code: <test.py>
 Please refer to [PSCC-Net](https://github.com/proteus1991/PSCC-Net) for the test dataset.
 
 ## Train Dataset
-[TIP 2019](https://github.com/jawadbappy/forgery_localization_HLED)
+[TIP 2019](https://github.com/jawadbappy/forgery_localization_HLED) We randomly selected 27,639 splicing images.
 
 
 ![columbia](https://github.com/ningnbai/PIM-Net/assets/106603827/43fe7b3a-311c-4a8e-a4d2-88c63e0dabec)
