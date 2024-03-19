@@ -1,9 +1,14 @@
 # PIM-Net
 
-**Progressive Inconsistency Mining Network for Image Manipulation Detection**  (Under Review)
+**Progressive Inconsistency Mining Network for Image Manipulation Detection**  (_Under Review_)
 
-Environment
-
+## Environment
+* python 3.7.13
+* pytorch 1.11.0
+* tensorboard 2.8.0
+* opcv 4.6.0
+* CUDA 11.3
+* cudnn 8.2.0
 
 ![columbia](https://github.com/ningnbai/PIM-Net/assets/106603827/43fe7b3a-311c-4a8e-a4d2-88c63e0dabec)
 ![casia](https://github.com/ningnbai/PIM-Net/assets/106603827/bb8be896-ada2-4281-a7be-f9bd0154e6ca)
