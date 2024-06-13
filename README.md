@@ -1,6 +1,6 @@
 # PIM-Net
 
-**Progressive Inconsistency Mining Network for Image Manipulation Detection**  (_Under Review_)
+**PIM-Net: Progressive Inconsistency Mining Network for Image Manipulation Detection**  (_Under Review_)
 
 ## Environment
 * Python 3.7.13
@@ -13,7 +13,7 @@
 Train code: <train.py>
 
 ## Test
-Train code: <test.py>
+Test code: <test.py>
 
 ## Metrics
 Five evaluation metrics (F1, AUC, IoU, MCC, FPR) are calculated by running <metric5.py>.
