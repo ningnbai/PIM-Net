@@ -1,6 +1,6 @@
 # PIM-Net
 
-**PIM-Net: Progressive Inconsistency Mining Network for Image Manipulation Detection**  (_Under Review_)
+**PIM-Net: Progressive Inconsistency Mining Network for Image Manipulation Localization**  (_Under Review_)
 
 ## Environment
 * Python 3.7.13
